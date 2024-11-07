@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacancyViewer1", "VacancyViewer1\VacancyViewer1.csproj", "{80CC258F-C34B-4D40-BF7A-4FF4002C97DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80CC258F-C34B-4D40-BF7A-4FF4002C97DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CC258F-C34B-4D40-BF7A-4FF4002C97DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CC258F-C34B-4D40-BF7A-4FF4002C97DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CC258F-C34B-4D40-BF7A-4FF4002C97DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCD40CA3-90CC-433F-BB1E-8D60C8A7F853}
+	EndGlobalSection
+EndGlobal
